@@ -136,6 +136,8 @@ body {
   background: var(--clr-white);
   border-radius: var(--border);
 
+  max-width: 39.375rem;
+
   display: grid;
   grid-auto-columns: 1fr;
   grid-template-areas:
